@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 Vel facilisis volutpat est velit egestas dui. Aliquam sem fringilla ut morbi. Egestas egestas fringilla phasellus faucibus scelerisque. 
 Fermentum leo vel orci porta non pulvinar. Vel facilisis volutpat est velit. A diam sollicitudin tempor id eu nisl nunc. Vitae proin sagittis nisl rhoncus mattis rhoncus urna. Pulvinar proin gravida hendrerit lectus a. Diam donec adipiscing tristique risus nec feugiat in fermentum. Varius quam quisque id diam vel quam elementum.
@@ -27,3 +28,23 @@ Amet mattis vulputate enim nulla aliquet porttitor lacus luctus.
 Eget magna fermentum iaculis eu non diam. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique. At quis risus sed vulputate odio ut enim. 
 Tempus urna et pharetra pharetra massa massa. In dictum non consectetur a erat. 
 Amet consectetur adipiscing elit duis. In dictum non consectetur a erat. Dictum non consectetur a erat nam at lectus urna duis. Pharetra et ultrices neque ornare aenean euismod elementum nisi. Euismod lacinia at quis risus sed vulputate.
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nunc consequat interdum varius sit amet. Tincidunt dui ut ornare lectus sit amet. Urna cursus eget nunc scelerisque viverra mauris in aliquam. Mi ipsum faucibus vitae aliquet nec ullamcorper sit amet. Nunc mattis enim ut tellus elementum sagittis vitae et leo. 
+
+Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Turpis tincidunt id aliquet risus feugiat in ante metus dictum. 
+
+>>>>>>> Feature_2
